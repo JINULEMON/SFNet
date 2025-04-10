@@ -6,8 +6,7 @@ from PIL import Image
 import numpy as np
 
 
-#root = '/data/home/lf/iris-datasets/'
-#root = '/mnt/sda/xiachun/iris_data/'
+
 root='/data/home/xc/iris_data/'
 
 def make_dataset_list(dataset_name, mode, val_percent=0.2):

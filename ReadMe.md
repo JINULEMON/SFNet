@@ -23,7 +23,7 @@ Model Complexity: SFNet contains only 0.38M parameters, the computational comple
 
 | Method | Params(M) | FLOPs(G) |
 | :----- | :-------- | :------- |
-| Ours   | 0.38      | 5.57     |
+| SFNet   | 0.38      | 5.57     |
 
 ### Performance
 

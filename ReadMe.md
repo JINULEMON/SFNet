@@ -1,6 +1,7 @@
 # A Light Spatial-Frequency Network for Robust Iris Segmentation and Localization
 
 ## Pipleline
+![fig1](https://github.com/user-attachments/assets/2c4829e4-8da2-4233-bed7-6c54d2392932)
 
 ## Requirement
 
